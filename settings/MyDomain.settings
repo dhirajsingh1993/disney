@@ -21,7 +21,7 @@
     <isIcorInstApiTrafficBlocked>false</isIcorInstApiTrafficBlocked>
     <isInstancedApiTrafficBlocked>true</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>connect-flow-4607</myDomainName>
+    <myDomainName>platform-fun-8246</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
