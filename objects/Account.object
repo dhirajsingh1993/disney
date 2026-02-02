@@ -358,6 +358,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>first_commit__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>first commit</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>user_name__c</fullName>
         <defaultValue>true</defaultValue>
         <label>user name</label>
