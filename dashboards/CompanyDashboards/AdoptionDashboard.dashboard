@@ -136,7 +136,7 @@
             <title>Last 30 Days</title>
         </components>
     </middleSection>
-    <owner>dhirendra.practice@copado.com.production</owner>
+    <owner>dhirendra.practice@copado.com.dev1</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -312,7 +312,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>dhirendra.practice@copado.com.production</runningUser>
+    <runningUser>dhirendra.practice@copado.com.dev1</runningUser>
     <textColor>#000000</textColor>
     <title>Adoption Dashboard</title>
     <titleColor>#000099</titleColor>
