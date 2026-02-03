@@ -194,7 +194,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
-    <owner>dhirendra.practice@copado.com.production</owner>
+    <owner>dhirendra.practice@copado.com.int</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -259,7 +259,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>dhirendra.practice@copado.com.production</runningUser>
+    <runningUser>dhirendra.practice@copado.com.int</runningUser>
     <textColor>#000000</textColor>
     <title>Company Performance Dashboard</title>
     <titleColor>#000099</titleColor>
