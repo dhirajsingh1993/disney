@@ -4,9 +4,5 @@
         <members>Copado_demo__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>Read Only</members>
-        <name>Profile</name>
-    </types>
     <version>65.0</version>
 </Package>
